@@ -1,0 +1,55 @@
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\login.g.cs
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\MainWindow.g.cs
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\App.g.cs
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\login.baml
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\MainWindow.baml
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.g.resources
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\Admin.g.cs
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\Student.g.cs
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\Admin.baml
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\Student.baml
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\bin\Debug\MaterialDesignColors.dll
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\App.baml
+D:\nikita\Das Studium\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\Admin.g.cs
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\MainWindow.g.cs
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\Student.g.cs
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\App.g.cs
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\bin\Debug\MaterialDesignColors.dll
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\App.baml
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\login.baml
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\Admin.baml
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\MainWindow.baml
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\Student.baml
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.g.resources
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\AdminPanel.g.cs
+D:\nikita\Das Studium\КУРСАЧ ПО ПРОГЕ\CourseWork\CourseWork\obj\Debug\AdminPanel.baml
